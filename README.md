@@ -153,10 +153,10 @@ This block:
 - Offers a replay option at the end.
 
 ## How to Run the Program
-1. Save the script as `hangman.py`.
+1. Save the script as `hangmangame.py`.
 2. Run the script using Python:
    ```sh
-   python hangman.py
+   hangmangame.py
    ```
 3. Follow the prompts to play the game.
 
